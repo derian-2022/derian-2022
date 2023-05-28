@@ -16,10 +16,8 @@
 - 📝 I regularly write articles on [file:///C:/Users/deria/OneDrive/Im%C3%A1genes/%C3%81lbum%20de%20c%C3%A1mara/logro_estudio_javascript_fundamentos_css_html/Derian-Cv.pdf](file:///C:/Users/deria/OneDrive/Im%C3%A1genes/%C3%81lbum%20de%20c%C3%A1mara/logro_estudio_javascript_fundamentos_css_html/Derian-Cv.pdf)
 
 - 📫 How to reach me **derianaugustoarias@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/deria/OneDrive/Im%C3%A1genes/%C3%81lbum%20de%20c%C3%A1mara/logro_estudio_javascript_fundamentos_css_html/derianCv.pdf](file:///C:/Users/deria/OneDrive/Im%C3%A1genes/%C3%81lbum%20de%20c%C3%A1mara/logro_estudio_javascript_fundamentos_css_html/derianCv.pdf)
-
-- ⚡ Fun fact **I really enjoy learning, I also like to share with my family. In my free time I like to work on pending and unexplored technology projects.**
+- ⚡ Fun fact 
+- **I really enjoy learning, I also like to share with my family. In my free time I like to work on pending and unexplored technology projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
