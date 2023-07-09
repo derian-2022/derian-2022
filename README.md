@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with React-Native **Native applications for IOS and Android**
 
-- 👨‍💻 My portfolio [https://derian2023.netlify.app/](https://derian2023.netlify.app/)
+- 👨‍💻 My portfolio [https://derian2023.netlify.app/]([https://derian2023.netlify.app/](https://iamderiandev.netlify.app/))
 
 - 📝 I regularly write articles on [file:///C:/Users/deria/OneDrive/Im%C3%A1genes/%C3%81lbum%20de%20c%C3%A1mara/logro_estudio_javascript_fundamentos_css_html/Derian-Cv.pdf](file:///C:/Users/deria/OneDrive/Im%C3%A1genes/%C3%81lbum%20de%20c%C3%A1mara/logro_estudio_javascript_fundamentos_css_html/Derian-Cv.pdf)
 
